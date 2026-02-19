@@ -1,0 +1,6 @@
+order_id,customer_id,customer_name,product,category,quantity,price,order_date
+1001,1,Rahul,Laptop,Electronics,1,70000,2024-01-10
+1002,2,Anita,Mouse,Accessories,2,500,2024-01-11
+1003,1,Rahul,Keyboard,Accessories,1,1500,2024-01-12
+1004,3,Suresh,Monitor,Electronics,1,12000,2024-01-13
+1005,4,Priya,Laptop,Electronics,1,70000,2024-01-14
